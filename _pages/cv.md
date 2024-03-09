@@ -48,10 +48,13 @@ Skills
 * Version Control
   * GitHub, GIT Source Version Control, GitLab
 
+Publications
+======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
