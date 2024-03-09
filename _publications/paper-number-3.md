@@ -9,4 +9,4 @@ venue: 'Iscience'
 citation: 'Kanwisher, N., Gupta, P., & Dobs, K. (2023). &quot;CNNs reveal the computational implausibility of the expertise hypothesis.&quot; <i>Iscience, 26(2)</i>.'
 ---
 
-The contents can be accessed at https://www.sciencedirect.com/science/article/pii/S2589004223000536
+The contents can be accessed at <a href="https://www.sciencedirect.com/science/article/pii/S2589004223000536"></a>
