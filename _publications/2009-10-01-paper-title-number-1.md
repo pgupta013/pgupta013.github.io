@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Digital image processing with deep learning for automated cutting tool wear detection"
+collection: Elsevier
+permalink: https://www.sciencedirect.com/science/article/pii/S2351978920315869
+excerpt: 'This study explores the application of deep learning in digital image processing for the detection of wear on cutting tools, with a focus on detection. Measurement is considered in the next paper.'
+date: 2020
+venue: 'Procedia Manufacturing'
+paperurl: 'https://pdf.sciencedirectassets.com/306234/1-s2.0-S2351978920X00126/1-s2.0-S2351978920315869/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCETHNB%2B6%2BpBveGTEDGxbxFYu9%2F0inNBxjDKe2pRwAWxwIhALzXGqbTtPhQzWemAo%2B3nWisZHkfnmM%2BwAfmeh0WHL8IKrsFCPD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgySEUceFf2go6mSQmsqjwV9wSy13HX31Hct2bLktCBaB7rSLzVUCUXKgqOUokBO8k1Bv7%2FV6fJyo3vZ0E5CRP1rsN6JCdpwuvQfrufVn9oTbtMJbFdDHYiXGq0Tx2y7sOhQBE5Q1RVsI7PGp%2FI2txGjzwnwN8LRdzRk%2BMeiGB0NJZKZhGGn1ePpCFkG%2Fdb0J96UWb8sNwZOuDx0GdNvpewJRJPKIueFjb49Uu8Mq%2B8Qq%2BC1MLBrNqCsNnbtJVrf32YRsx%2BfB6h3PKS9PCaz1OAFt4McEKn5bbz4WGvQ0N97ljT4Q62EuQRjfvosQSJrSsi2mCpC7dgCVpHEGbcuoLv5dWi9Fz8XOTV6rNbrdGQWnbTcyUiHhXMfFYoIb99EeS9V%2FyNs1Co3wLYsyIOCmTU0gDAQg%2FpWdIRfl15yOdIZJn%2FjCLuiNE80Hy%2BaNrLUynZmVoEADJjdyrUSeJmLkM5oBy0tu2xN4mERU3QKMhnfbqNU5pWnA84ivW4AMY3v96whx0LrLYrCu97T4wr4ZLgt2bDzfKvEtRwqV0q4A7%2B3EF9T5wWXlSC8E%2FPeuquRPPXPXhIkrV%2BwBhVqmUAdlOjhZil5XcnEdGvwZCNk%2FpC26jDTiqEb4V31yt%2FaOeUJNtZ6eu0HTBKBYWvL6QNwX03i1zg21EngQWOBspPEFS8C%2BEnsqpNTKXXdaM90LtkZbsawu4gJ2ZOIMBVc5iTTAs6G13fxPcjpn3gHCL%2BxxO9yquL0V0uKL1f06rgaGRjQI5vNnFdfte88iq3a2%2B3BN9%2FrECufqLGaH6jB65V3FWeW6x0Ly9%2Bw963TdL%2B0vmnPadWP%2BZotW%2FwyDjSRzOhCpaCVfCM08Zuwt%2FvL8vsQaLGrN3m9PQgUCyvDjXET2LS4MIPvsa8GOrABBMSRwR0J3V8nDZDBd9fzLX8VuXc59GdRpnoXlR9c2h3G3FsiObINH%2FxL8cm9rwPItxXVP%2BmIlfiTVoVBIhXeIA1GiPqLwvoznpsS4lZ0YBEIvbUm7zJWDwbXXC8RFyJdYAA%2BXU7QtKOUFwsClM4pCnQaMtS%2FXG%2FsRJYA8ucliQi%2BtPdu%2F28ctdci%2FoX6XhU4RWUfR5IrDzr9tru%2Bnf6s3lduZG9qJxgf5VreikbZ92w%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240309T160016Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7N2QXXD2%2F20240309%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cc33830f8741c356b722dd48480cf90adcc0b06689e2d33abcc70ab6f359b13f&hash=4a93f10e086ea3e39f55f8abae42015dd12421441c81e8d98243ebc3280d8d25&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2351978920315869&tid=spdf-b127f9ee-2a69-4c57-aee1-d850502db64e&sid=3ee4c3af1caa8744b07b7e7790af4324eac9gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1e015c53520452590752&rr=861c46e5583e4d8b&cc=de'
+citation: 'Bergs, T., Holst, C., Gupta, P., & Augspurger, T. (2020). &quot;igital image processing with deep learning for automated cutting tool wear detection.&quot; <i>JProcedia Manufacturing, 48, 947–958</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
