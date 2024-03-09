@@ -38,7 +38,7 @@ I am currently involved in cutting-edge research at the Visual Cognition & Compu
 Previously, I gained practical experience at Tata Motors Limited, India, where I applied machine learning techniques to enhance manufacturing efficiency and process automation.
 
 ## 🌱 Teaching and Community Contributions
-I actively share my knowledge and research findings through platforms like Twitter and LinkedIn, aiming to contribute to the broader scientific community's understanding of visual cognition and computational neuroscience. I plan to create, publish and share on more open-source platforms soon.
+I actively share my knowledge and research findings through platforms like Twitter, Youtube and LinkedIn, aiming to contribute to the broader scientific community's understanding of visual cognition and computational neuroscience. I plan to create, publish and share on more open-source platforms soon.
 
 
 
