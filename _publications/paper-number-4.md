@@ -3,10 +3,10 @@ title: "Human-like face pareidolia emerges in deep neural networks optimized for
 collection: Public Library of Science San Francisco, USA
 #permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2023-06-27
+date: 2023-06-23
 venue: 'PLoS computational biology'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Gupta, P., & Dobs, K. (2023). &quot;uman-like face pareidolia emerges in deep neural networks optimized for face
+citation: 'Gupta, P., & Dobs, K. (2023). &quot;Human-like face pareidolia emerges in deep neural networks optimized for face
 and object recognition [Under Review].&quot; <i>PLoS computational biology</i>.'
 ---
 
