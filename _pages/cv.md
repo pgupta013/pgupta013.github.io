@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
-#======
-<a href="https://pgupta013.github.io/files/cv_pranjul.pdf">Complete CV</a>
+<a href="https://pgupta013.github.io/files/cv_pranjul.pdf">(Complete CV)</a>
 
 Education
 ======
@@ -24,7 +22,7 @@ Education
 
 Work experience
 ======
-* Spring 2024: Ph.D. Researcher
+* December 2020 - Spring 2024: Ph.D. Researcher
   * Justus-Liebig University (JLU), Giessen, Germany
   * Duties include: Conducting research on the computational aspects of visual cognition and developing neural network models to investigate human and artificial perception of faces and objects.
   * Supervisor: Dr.rer.nat. Katharina Dobs (katharina.dobs@gmail.com)
@@ -50,7 +48,6 @@ Skills
 * Version Control
   * GitHub, GIT Source Version Control, GitLab
 
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -69,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to multiple slack, discord and mattermost teams
