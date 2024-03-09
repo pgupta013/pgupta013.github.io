@@ -3,7 +3,7 @@ title: "Digital image processing with deep learning for automated cutting tool w
 collection: Elsevier
 permalink: https://www.sciencedirect.com/science/article/pii/S2351978920315869
 excerpt: 'This study explores the application of deep learning in digital image processing for the detection of wear on cutting tools, with a focus on detection. Measurement is considered in the next paper.'
-date: 2020
+date: 2020-06-23
 venue: 'Procedia Manufacturing'
 #paperurl: ''
 citation: 'Bergs, T., Holst, C., Gupta, P., & Augspurger, T. (2020). &quot;igital image processing with deep learning for automated cutting tool wear detection.&quot; <i>JProcedia Manufacturing, 48, 947–958</i>.'
