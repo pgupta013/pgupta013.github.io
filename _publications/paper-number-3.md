@@ -2,7 +2,7 @@
 title: "CNNs reveal the computational implausibility of the expertise hypothesis"
 collection: Elsevier
 permalink: https://www.sciencedirect.com/science/article/pii/S2589004223000536
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This study challenges the expertise hypothesis suggesting face-specific brain mechanisms are domain-general, showing neural networks optimized for generic object categorization outperform those for face recognition in expert object discrimination. It highlights the computational implausibility of domain-general mechanisms being as effective as face-specific ones in specialized tasks.'
 date: 2023-02-17
 venue: 'Iscience'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
