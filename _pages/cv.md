@@ -9,39 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+
+#======
+<a href="https://pgupta013.github.io/files/cv_pranjul.pdf">Complete CV</a>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Visual Cognition & Computational Neuroscience, Justus-Liebig University (JLU), Giessen, Germany, 2020 - 2024 (expected)
+  * Thesis: "From Faces to Objects: Exploring the boundaries of artificial and human perception."
+* M.Sc. in Simulation Science, Rheinisch-Westfälische Technische Hochschule (RWTH), Aachen, Germany, 2017 – 2020
+  * Focus: Computational modeling with a focus on data-driven applications.
+* B.Tech. in Mechanical Engineering, National Institute of Technology (NIT), Kurukshetra, India, 2012–2016
+  * Focus: Design, simulation, production, and operations.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Ph.D. Researcher
+  * Justus-Liebig University (JLU), Giessen, Germany
+  * Duties include: Conducting research on the computational aspects of visual cognition and developing neural network models to investigate human and artificial perception of faces and objects.
+  * Supervisor: Dr.rer.nat. Katharina Dobs (katharina.dobs@gmail.com)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2018 - September 2020: Hilfswissenschaftler (Part-Time Software Developer)
+  * Fraunhofer Institute of Production Technology (IPT), Aachen, Germany
+  * Duties included: Developing predictive tool wear models using deep learning and improving manufacturing processes through data analysis and visualization.
+  * Supervisor: Mr. M.Sc. Carsten Holst (carsten.holst91@gmail.com)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* August 2016 - August 2017: Technical Planner (Assistant Manager)
+  * Tata Motors Limited (TML), Rudrapur, India
+  * Duties included: Implementing machine learning techniques for process automation and enhancing manufacturing efficiency.
+  * Supervisor: Mr. Sudhanshu Mishra (linkedin id: sudhanshu-mishra-916843180)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, Matlab, C/C++, Bash Scripting, Java (design-level familiarity)
+* Data Technologies
+  * SQL, MySQL/PostgreSQL/LiteSQL/MongoDB, Docker, Hadoop, MapReduce
+* AI Frameworks
+  * PyTorch, TensorFlow, Keras, Pandas, NumPy, SciPy, OpenCV
+* Version Control
+  * GitHub, GIT Source Version Control, GitLab
 
-Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
