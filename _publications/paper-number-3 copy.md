@@ -1,6 +1,6 @@
 ---
 title: "Human-like face pareidolia emerges in deep neural networks optimized for face and object recognition [Under Review]"
-collection: Public Library of Science San Francisco, USA
+collection: PLoS computational biology
 #permalink: https://www.sciencedirect.com/science/article/pii/S2589004223000536
 excerpt: 'Using deep convolutional neural networks, this study explores face pareidolia, showing that a dual-task model trained on face and object recognition mimics human neural responses to real and perceived faces. The findings suggest that pareidolia arises from the brain's optimization for both detecting faces and distinguishing them from other objects in early and later processing stages, respectively.'
 date: 2023-06-23
