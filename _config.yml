@@ -21,7 +21,7 @@ repository               : "pgupta013/pgupta013.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bw1.png"
+  avatar           : "profile_pic.webp"
   name             : "Pranjul Gupta"
   pronouns         : "he/him"
   bio              : "👨‍💻 Computational Modeler"
