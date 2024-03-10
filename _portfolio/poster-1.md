@@ -1,13 +1,13 @@
 ---
 title: "Poster 1"
 collection: poster
-type: "Bachelor Thesis"
-permalink: /poster/bachelor_thesis
-venue: "Justus Liebig University, FB-06 Department"
-date: 2023-08-20
-location: "Giessen, Germany"
+type: "ECVP 2022"
+permalink: /poster/conference
+venue: "Radboud University"
+date: 2022-09-01
+location: "Nijmegen, Netherlands"
 ---
 
-Samuel Sander's Master Thesis explores the inversion effects in humans and deep neural networks, examining how orientation affects object recognition in both. By comparing human performance with that of deep neural networks across various visual tasks, this work seeks to understand if neural networks can predict inversion effects in humans. Through methodological approaches involving the Ecoset dataset and different network architectures, the thesis finds significant inversion effects in both humans and neural networks, suggesting similarities in classification behaviors despite differences in error distributions under increased image distortion.
+The poster presents a study where task-optimized convolutional neural networks (CNNs) challenge the expertise hypothesis, suggesting that systems broadly optimized for object recognition provide a better foundation for learning fine-grained tasks like car discrimination than systems optimized for face recognition, thus questioning the computational viability of the expertise hypothesis.
 
-For more detailed information, please visit [Checkout the poster](https://pgupta013.github.io/files/cmbb_2023_poster_pareidolia.pdf).
+For more detailed information, please [Checkout the poster](https://pgupta013.github.io/files/ecvp_2022_poster_expertise_kd_1.pdf).
