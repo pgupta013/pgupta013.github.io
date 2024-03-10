@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Pranjul!"
+title: "Hello there, I'm Pranjul!👋🏼"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
 
 🧠 I'm a final year Ph.D. candidate at Justus-Liebig University (JLU), Giessen, Germany, under the guidance of Dr.rer.nat. Katharina Dobs, focusing on Visual Cognition & Computational Neuroscience.
 
