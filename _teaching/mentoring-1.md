@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Mentoring experience 1"
+collection: mentoring
+type: "Master Thesis"
+permalink: /mentoring/master_thesis
+venue: "Justus Liebig University, FB-06 Department"
+date: 2022-05-05
+location: "Giessen, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Samuel Sander's Master Thesis explores the inversion effects in humans and deep neural networks, examining how orientation affects object recognition in both. By comparing human performance with that of deep neural networks across various visual tasks, this work seeks to understand if neural networks can predict inversion effects in humans. Through methodological approaches involving the Ecoset dataset and different network architectures, the thesis finds significant inversion effects in both humans and neural networks, suggesting similarities in classification behaviors despite differences in error distributions under increased image distortion.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+For more detailed information, please visit [Samuel Sander's website](https://samusander.github.io/PuG23/).
