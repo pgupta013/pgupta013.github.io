@@ -1,8 +1,8 @@
 ---
 title: "Poster 1"
-collection: poster
+collection: posters
 type: "ECVP 2022"
-permalink: /poster/conference
+permalink: /posters/conference
 venue: "Radboud University"
 date: 2022-09-01
 location: "Nijmegen, Netherlands"

@@ -1,8 +1,8 @@
 ---
 title: "Poster 2"
-collection: poster
+collection: posters
 type: "CMBB Day 2023"
-permalink: /poster/event
+permalink: /posters/event
 venue: "Justus Liebig University"
 date: 2023-10-05
 location: "Giessen, Germany"
