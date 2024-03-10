@@ -1,7 +1,9 @@
 ---
 title: 'Dr. Alice & Dr. Bob Part-1'
 #date: 2021-03-14
-permalink: /posts/2021/03/Dr. Alice & Dr. Bob Part-1/
+#permalink: /posts/2021/03/Dr. Alice & Dr. Bob Part-1/
+permalink: /posts/Part-1/
+
 tags:
   - Karl Friston's free energy principle
   - Digital computing
