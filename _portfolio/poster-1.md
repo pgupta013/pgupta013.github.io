@@ -1,7 +1,13 @@
 ---
 title: "Poster 1"
-excerpt: "The poster, titled "Investigating face pareidolia using DeepGaze: Bridging human and artificial perception" by Pranjul Gupta & Katharina Dobs from the Dept. of Psychology at Justus-Liebig University Giessen, explores the phenomenon of face pareidolia, where humans perceive familiar patterns like faces in random stimuli. Using DeepGaze, a computational model trained to predict human gaze behavior, the study examines its ability to recognize face-like patterns in various visual stimuli. The research compares DeepGaze's performance with that of the Dual Shot Face Detector (DSFD), a state-of-the-art human face detection algorithm. Findings show DeepGaze outperforms DSFD in identifying face-like patterns and exhibits a high correlation with human gaze, particularly in scenes with objects and faces, though it is less effective in face pareidolia scenes. The study underscores DeepGaze's potential as a tool for investigating complex perceptual phenomena such as face pareidolia."
 collection: poster
+type: "Bachelor Thesis"
+permalink: /poster/bachelor_thesis
+venue: "Justus Liebig University, FB-06 Department"
+date: 2023-08-20
+location: "Giessen, Germany"
 ---
 
-<a href="https://pgupta013.github.io/files/cmbb_2023_poster_pareidolia.pdf">Checkout the poster</a>
+Samuel Sander's Master Thesis explores the inversion effects in humans and deep neural networks, examining how orientation affects object recognition in both. By comparing human performance with that of deep neural networks across various visual tasks, this work seeks to understand if neural networks can predict inversion effects in humans. Through methodological approaches involving the Ecoset dataset and different network architectures, the thesis finds significant inversion effects in both humans and neural networks, suggesting similarities in classification behaviors despite differences in error distributions under increased image distortion.
+
+For more detailed information, please visit [Checkout the poster](https://pgupta013.github.io/files/cmbb_2023_poster_pareidolia.pdf).
