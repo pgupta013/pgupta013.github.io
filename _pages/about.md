@@ -10,8 +10,6 @@ redirect_from:
 
 
 
-![Illustration of highlighting my CV](/images/profile_pic.webp){: .align-right width="300px"}
-
 🧠 I'm a final year Ph.D. candidate at Justus-Liebig University (JLU), Giessen, Germany, under the guidance of Dr.rer.nat. Katharina Dobs, focusing on Visual Cognition & Computational Neuroscience.
 
 🔍 My research interests lie in exploring the boundaries between artificial and human perception, particularly in understanding how faces and objects are processed by both.
