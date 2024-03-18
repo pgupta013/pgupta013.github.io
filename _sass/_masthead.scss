@@ -11,19 +11,28 @@
           animation-delay: 0.15s;
   z-index: 20;
 
-  background-color: #333333; // Dark grey background
-  color: #ffffff; // White text
-  border-bottom: 1px solid $border-color; // Adjust this if you also want to change the border color
-
   a {
-    color: #ffffff; // Set link color to white
+    color: #ffffff !important; // Forces all text links to be white
 
-    &:hover {
-      color: #dddddd; // Slightly lighter grey for hover state
+    &:hover,
+    &:focus {
+      color: #dddddd !important; // A different color for hover and focus states
     }
 
-    &:visited {
-      color: #ffffff; // Keep visited links white if desired
+    // If links have specific classes that set color, you may need to override those too
+    &.specific-link-class {
+      color: #ffffff !important;
+    }
+  }
+  
+  // If there are specific navigation classes, you might need to include them as well
+  .navigation-class a,
+  .other-class a {
+    color: #ffffff !important;
+
+    &:hover,
+    &:focus {
+      color: #dddddd !important;
     }
   }
 
