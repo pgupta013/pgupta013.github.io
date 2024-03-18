@@ -6,5 +6,9 @@ readers do not read off random characters that represent icons */
 
 @each $name, $icon in $fa-icons {
   .#{$fa-css-prefix}-#{$name}::before { content: unquote("\"#{ $icon }\""); }
+  // Override color for all FontAwesome icons
+  .#{$fa-css-prefix} {
+  color: #ffffff; // Set the color to white for all icons
+  }
 }
 
