@@ -10,6 +10,11 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  
+  background-color: #333333; // Dark grey background
+  color: #ffffff; // White text
+  border-bottom: 1px solid $border-color; // Adjust this if you also want to change the border color
+
 
   &__inner-wrap {
     @include container;
